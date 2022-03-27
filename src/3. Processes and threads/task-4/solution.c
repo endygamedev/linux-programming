@@ -42,7 +42,7 @@ char *get_stat_content(int stat_file_fd) {
     ssize_t bytes_read = 0;
     ssize_t total_n_bytes = 0;
     
-    // read the whole stat file content
+    
     while ((bytes_read = read(stat_file_fd, data_chunk_buf, CHUNK_SIZE)) > 0) {
         if (cur_data_size == 0) {
             data = calloc(CHUNK_SIZE, sizeof(char));
@@ -127,6 +127,7 @@ int find_children(int ppid) {
     
     return child_counter;
 }
+
 
 int main(int argc, char *argv[]) {
     if (argc == 1 || argc > 2) {
