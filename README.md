@@ -21,20 +21,20 @@ Contains video lectures and do-it-yourself tasks.
     1. Links
     1. The `/proc` file system. Building the process tree
     1. Debugging programs in Linux
-1. **Processes and threads**
+1. **[Processes and threads](./src/3.%20Processes%20and%20threads)**
     1. Process lifecycle in Linux
     1. Creating `fork/exec` processes
     1. Attributes of the process being created. `Clone` system call
     1. Demon Processes
     1. Programming tasks
-1. **Interaction of processes**
+1. **[Interaction of processes](./src/4.%20Interaction%20of%20processes)**
     1. Types of interprocess communication in Linux
     1. Pipes
     1. Signals
     1. Shared memory
     1. Multiplexing I/O
     1. Programming tasks
-1. **Networking capabilities**
+1. **[Networking capabilities](./src/5.%20Networking%20capabilities)**
     1. Introduction
     1. Principles of IP networking
     1. The concept of a socket
