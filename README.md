@@ -7,8 +7,11 @@ Contains video lectures and do-it-yourself tasks.
 1. Robert Love — 'Linux System Programming'
 1. Michael K. Johnson, Erik W. Troan — 'Linux Application Development'
 
+### Certificates
+1. [Stepik course: 'Linux programming basics' →](https://stepik.org/cert/1454725)
+
 ### Course content
-1. **Introduction to Linux development**
+1. **[Introduction to Linux development](./src/1.%20Introduction)**
     1. The basic tools of a Linux developer
     1. Dynamic libraries and linking
     1. Runtime linking. Libdl
