@@ -1,0 +1,13 @@
+#!/bin/bash
+
+for i in {1..5}
+do
+    pkill solution -USR1
+done
+
+for i in {1..10}
+do
+    pkill solution -USR2
+done
+
+pkill solution -TERM
