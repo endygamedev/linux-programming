@@ -6,6 +6,7 @@ This repository contains the necessary files for learning Linux programming basi
 Contains video lectures and do-it-yourself tasks.
 1. Robert Love — 'Linux System Programming'
 1. Michael K. Johnson, Erik W. Troan — 'Linux Application Development'
+1. [CSC Lecture: 'What is an operating system and how it works'](https://youtu.be/hb9CTGSJm88)
 
 ### Certificates
 1. [Stepik course: 'Linux programming basics' →](https://stepik.org/cert/1454725)
